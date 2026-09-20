@@ -24,3 +24,4 @@ I am an undergraduate specializing in **Applied Statistics** at the Faculty of S
 
 ### 🤝 Connect with Me
 * 💼 [LinkedIn](https://www.linkedin.com/in/rasindu-pramith)
+* 🏆 [Kaggle](https://www.kaggle.com/rasindupramith)
